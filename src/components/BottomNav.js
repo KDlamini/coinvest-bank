@@ -14,11 +14,11 @@ function BottomNav() {
                         </ul>
                     <h4>Follow us on</h4>
                         <ul className="social">
-                            <li><a href="#"><i class="facebook f icon"></i></a></li>
-                            <li><a href="#"><i class="twitter icon"></i></a></li>
-                            <li><a href="#"><i class="instagram icon"></i></a></li>
-                            <li><a href="#"><i class="linkedin icon"></i></a></li>
-                            <li><a href="#"><i class="youtube icon"></i></a></li>
+                            <li><a href="https://facebook.com/coinvest-bank/"><i class="facebook f icon"></i></a></li>
+                            <li><a href="https://twitter.com/coinvest-bank"><i class="twitter icon"></i></a></li>
+                            <li><a href="https://instagram.com/coinvest-bank"><i class="instagram icon"></i></a></li>
+                            <li><a href="https://linkedin.com/coinvest-bank"><i class="linkedin icon"></i></a></li>
+                            <li><a href="https://youtube.com/coinvest-bank"><i class="youtube icon"></i></a></li>
                         </ul>
                 </div>
 
