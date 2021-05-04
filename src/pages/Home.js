@@ -3,6 +3,7 @@ import React from 'react'
 function Home() {
     return (
         <div className="home">
+            Pages currently in development. Coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>
