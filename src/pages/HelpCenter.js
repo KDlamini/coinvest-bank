@@ -3,7 +3,7 @@ import React from 'react'
 function HelpCenter() {
     return (
         <div className="help-center">
-            This is the help center page
+            The help center page section is currently in development. coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>

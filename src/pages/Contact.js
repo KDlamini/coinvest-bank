@@ -3,7 +3,7 @@ import React from 'react'
 function Contact() {
     return (
         <div className="contact">
-            Contact
+            Contact section is currently in development. coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>

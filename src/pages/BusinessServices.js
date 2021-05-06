@@ -3,7 +3,7 @@ import React from 'react'
 function BusinessServices() {
     return (
         <div className="business-services">
-            Business Services
+            Business Services section is currently in development. coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>

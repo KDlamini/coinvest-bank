@@ -3,7 +3,7 @@ import React from 'react'
 function FindBranch() {
     return (
         <div className="find-branch">
-            This is the branches section
+            The branches section is currently in development. coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>

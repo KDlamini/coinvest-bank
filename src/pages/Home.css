@@ -1,0 +1,40 @@
+.home {
+    position: relative;
+    text-align: center;
+    color: #4e6066;
+}
+
+.home h3 {
+  color: #EE6161;
+}
+
+.home .home-banner {
+    width: 100%;
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.banner-card1,
+.banner-card2,
+.banner-card3 {
+    width: 350px;
+    height: 300px;
+    padding: 0 5px;
+    box-shadow:  3px 3px 5px #bebebe;
+    border: 1px solid #dadada;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.banner-card1 {
+    background: #b6cead;
+}
+.banner-card3 {
+    background: #d3a4a4;
+}
+
+.home-banner img, 
+.home-banner h4 {
+    margin: 0;
+}
