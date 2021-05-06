@@ -3,7 +3,7 @@ import React from 'react'
 function OpenAnAccount() {
     return (
         <div className="open-an-account">
-            Open An Account
+            Open An Account page section is currently in development. coming soon...
             <ul className="bank-details">
                 <li>
                     <a href="#"><i className="mobile alternate icon"></i></a>

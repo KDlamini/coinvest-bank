@@ -4,14 +4,21 @@ import './Home.css'
 function Home() {
     return (
         <div className="home">
-            <h3>Bank with a bank that understands investment</h3>
-            <p>You won't work for money, money will work for you</p>
+            <h3>Bank with professionals that understand investment.</h3>
+            <p>You won't work for money, money will work for you.</p>
+
+            <ul className="home-slider">
+                <li>Low interest rates</li>
+                <li>No hidden fees</li>
+                <li>100% transparency</li>
+                <li>Transaction fees 0%</li>
+            </ul>
+
             <div className="home-banner">
                 <div className="banner-card1">
                     <img src="./images/business-people-transparent-background-thumb.png"></img>
                     <h4>Grow your business</h4>
-                    <p>
-                    We offer businesses a specialised range of secure and user-friendly Business and Commercial Banking products and services.</p>
+                    <p>We offer businesses a specialised range of secure and user-friendly Business and Commercial Banking products and services.</p>
                 </div>
                 <div className="banner-card2">
                     <img src="./images/business-people-file-thumb.png"></img>
